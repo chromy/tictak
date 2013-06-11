@@ -9,15 +9,15 @@ var layer = new Kinetic.Layer();
 var border = new Kinetic.Rect({
     x: 2,
     y: 2,
-    width: 600-6,
-    height: 600-6,
+    width: 600-4,
+    height: 600-4,
     stroke: 'black',
     strokeWidth: 4
 });
 
 // The first line of our board, can you add the rest?
 var line_one = new Kinetic.Line({
-      points: [[200, 0], [200, 600-2]],
+      points: [[200, 0], [200, 600]],
       stroke: 'black',
       strokeWidth: 4
 });
