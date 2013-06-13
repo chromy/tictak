@@ -3,7 +3,7 @@
 ##Teaching Plan##
 - How does a game of tic tac toe work?
 - draw a rough flowchart
-- now work through examples and ocmments to make it work
+- now work through examples and comments to make it work
 
 
 ##Task 1##
