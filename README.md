@@ -1,5 +1,11 @@
 #Simple Tic-Tac-Toe Game in Js#
 
+##Teaching Plan##
+- How does a game of tic tac toe work?
+- draw a rough flowchart
+- now work through examples and ocmments to make it work
+
+
 ##Task 1##
 -Draw the grid
 
